@@ -1,4 +1,4 @@
 spartancoinj
 ============
 
-SpartanCoinJ - Library for working with SpartanCoin
+SpartanCoinJ - Library for working with SpartanCoin 
